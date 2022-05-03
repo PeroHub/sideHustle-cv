@@ -1,6 +1,6 @@
 # Getting Started with this project
-Clone the repo https://github.com/PeroHub/sideHustle-cv
-cd into sideHustle-cv
+- Clone the repo https://github.com/PeroHub/sideHustle-cv
+- cd into sideHustle-cv
 
 ##After making changes
 git add .
