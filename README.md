@@ -1,4 +1,5 @@
 # Getting Started with this project
+- git pull origin staging
 - Clone the repo https://github.com/PeroHub/sideHustle-cv
 - cd into sideHustle-cv
 
