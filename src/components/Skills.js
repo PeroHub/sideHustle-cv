@@ -12,7 +12,10 @@ const Skills = () => {
                 <li>Responsive Design & Mobile First Website</li>
                 <li>GraphQL</li>
                 <li>React</li>
-                <li></li>
+                <li>Nsisong</li>
+                <li>Nsisong</li>
+                <li>Nsisong</li>
+                <li>Nsisong</li>
             </ul>
         
         </Box>
