@@ -14,6 +14,9 @@ const Skills = () => {
                 <li>React</li>
                 <li></li>
                 <li>Node JS</li>
+                <li>Express JS</li>
+                <li>MongoDB & MySQL</li>
+                <li>Passport JS</li>
 
             </ul>
         
